@@ -26,10 +26,6 @@ Estos son los repositorios *oficiales y activos* del ecosistema:
 | 🌍 **open-civic-apps** | Aplicaciones cívicas y comunitarias de código abierto orientadas a participación, organización y soluciones públicas. |
 | 🌀 **siag-hub** | Documentación técnica, estructura interna, archivos cooperativos y organización del ecosistema. |
 
-> ⚠️ Notas:  
-> - Repositorios antiguos como *open-projects*, *gaia-core* o *sp-latam-bridge* ya no forman parte de la estructura actual.  
-> - Esta tabla refleja la **arquitectura vigente** de SIAG COOP.
-
 ---
 
 ## 🌿 Misión Cooperativa de SIAG COOP
