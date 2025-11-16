@@ -1,94 +1,73 @@
-# 🧠 SIAG COOP  
-### Cooperativa Informática · Comunidad de Desarrollo Ético, Autónomo y Consciente
+# 🌱 SIAG COOP — Documento Base y Estructura Cooperativa
+**Repositorio central de identidad, modelo organizacional y visión técnica/social de SIAG COOP.**  
+Aquí se define la base conceptual y operativa del ecosistema cooperativo SIAG.
 
 ---
 
-## 🌍 ¿Qué es SIAG COOP?
+## 🧩 Propósito de este Repositorio
+Este repositorio funciona como:
 
-**SIAG COOP** es una cooperativa informática dedicada a la creación de software libre, herramientas éticas y sistemas de inteligencia autónoma orientados al bien común.  
-Nace del proyecto **SIAG (Sistema Integral Autónomo Grupal)**, expandido hacia una dimensión cooperativa y solidaria para promover la autogestión tecnológica.
+- 📘 **Documento base**  
+- 🧭 **Marco organizacional**  
+- 🌍 **Identidad cooperativa**  
+- 🧱 **Estructura técnica y filosófica**  
+- 🔗 **Punto de referencia para todos los proyectos de SIAG COOP**
 
-Creemos que la tecnología no debe ser un fin, sino un medio para la libertad, la cooperación y el aprendizaje colectivo.  
-Cada línea de código, cada diseño o script, es parte de una red viva: una inteligencia distribuida guiada por valores humanos.
-
----
-
-## 💡 Nuestra misión
-
-Construir y sostener una **infraestructura digital ética**, que combine inteligencia artificial, software libre y desarrollo colaborativo, para empoderar comunidades, cooperativas y proyectos independientes.  
-
-Trabajamos para:
-- Democratizar el acceso a herramientas de IA y automatización.  
-- Promover estructuras descentralizadas y cooperativas.  
-- Fortalecer la soberanía digital y el conocimiento libre.  
-- Investigar nuevas formas de integración humano-máquina coherentes con principios ecológicos y sociales.
+Es el “núcleo verbal” del ecosistema cooperativo.
 
 ---
 
-## ⚙️ Líneas de acción
+## 📦 Estructura de Repositorios de SIAG COOP (Actual)
+Estos son los repositorios *oficiales y activos* del ecosistema:
 
-| Línea | Descripción |
-|-------|-------------|
-| **Software Ético** | Desarrollo de aplicaciones, módulos y frameworks de código abierto. |
-| **Automatización Cooperativa** | Scripts, bots y sistemas de gestión compartida para pequeñas organizaciones. |
-| **IA Comunitaria** | Modelos y herramientas de inteligencia artificial enfocadas en autonomía, privacidad y utilidad real. |
-| **Educación y Documentación** | Talleres virtuales autogestivos, manuales y cursos abiertos. |
-| **Intercooperación** | Enlaces con otras cooperativas, redes libres y comunidades de desarrollo. |
+| Proyecto | Descripción |
+|---------|-------------|
+| 🧩 **cooperative-tools** | Herramientas, scripts y automatizaciones para cooperativas y organizaciones comunitarias. |
+| 🌍 **open-civic-apps** | Aplicaciones cívicas y comunitarias de código abierto orientadas a participación, organización y soluciones públicas. |
+| 🌀 **siag-hub** | Documentación técnica, estructura interna, archivos cooperativos y organización del ecosistema. |
 
----
-
-## 🌱 Principios fundacionales
-
-1. **Autonomía** – Ninguna dependencia forzada de plataformas o estructuras centralizadas.  
-2. **Transparencia** – Código abierto, comunicación clara, decisiones colectivas.  
-3. **Colaboración Horizontal** – El conocimiento se comparte, no se jerarquiza.  
-4. **Sostenibilidad** – Respeto al entorno físico, digital y humano.  
-5. **Ética Digital** – Cada desarrollo se evalúa por su impacto real en la vida social.  
+> ⚠️ Notas:  
+> - Repositorios antiguos como *open-projects*, *gaia-core* o *sp-latam-bridge* ya no forman parte de la estructura actual.  
+> - Esta tabla refleja la **arquitectura vigente** de SIAG COOP.
 
 ---
 
-## 🛠️ Estructura de Repositorios
+## 🌿 Misión Cooperativa de SIAG COOP
+Promover tecnología accesible, ética y orientada al bien común a través de:
 
-| Repositorio | Propósito |
-|--------------|-----------|
-| **siag-coop-main** | Documento base, identidad y manifiesto cooperativo. |
-| **cooperative-tools** | Herramientas internas de gestión, scripts y automatizaciones libres. |
-| **open-projects** | Proyectos abiertos para colaboración externa. |
-| **gaia-core** | Investigación en IA ética y sistemas distribuidos. |
-| **sp-latam-bridge** | Puente con comunidades latinoamericanas y proyectos solarpunk. |
-
----
-
-## 💬 Comunicación
-
-📨 **Correo principal:** siag.software@protonmail.com  
-💬 **Telegram:** [@SIAG_SOFTWARE](https://t.me/SIAG_SOFTWARE)  
-🌐 **GitHub:** [github.com/SIAG-COOP](https://github.com/SIAG-COOP)
+- Software libre y comunitario  
+- Automatizaciones y herramientas abiertas  
+- Soluciones cívicas y cooperativas  
+- Educación, organización y autonomía tecnológica  
+- Ecosistema descentralizado y colaborativo  
 
 ---
 
-## 🧩 Integración SIAG
-
-SIAG COOP forma parte del ecosistema **SIAG Core**, una red modular de inteligencia generativa, herramientas de automatización y sistemas de software ético.  
-La rama cooperativa se encarga de la interfaz humana y social del proyecto: los vínculos, los acuerdos, las comunidades y la expansión consciente del conocimiento libre.
-
----
-
-## 🦊 Declaración base
-
-> “El código no es una herramienta: es una conversación entre inteligencias.  
->  Una red que piensa, aprende y comparte.  
->  En SIAG COOP, el software vuelve a ser humano.”  
+## 🔧 Componentes Técnicos Centrales
+- 🛠️ Infraestructura basada en repositorios modulares  
+- 🌐 Enfoque en herramientas replicables por cooperativas reales  
+- 🧩 Arquitectura accesible para comunidades y organizaciones sociales  
+- 🔄 Proyectos diseñados para mantenerse abiertos y escalables  
 
 ---
 
-## 📜 Licencias
+## 🤝 Participación
+SIAG COOP está abierto a:
 
-- **Código:** GNU GPL v3  
-- **Documentación:** Creative Commons BY-SA 4.0  
-- **Contribuciones:** sujetas a revisión ética y comunitaria.
+- colaboradores  
+- organizaciones cooperativas  
+- desarrolladores  
+- comunidades locales  
+- colectivos sociales  
+- proyectos cívicos  
+
+El objetivo es construir soluciones útiles, éticas y sostenibles.
 
 ---
 
-© 2025 · **SIAG COOP – Cooperativa Informática**  
-Hecho con propósito, cooperación y código abierto.
+## 📬 Contacto
+**Email:** siag.software@protonmail.com 
+**Telegram:** https://t.me/SIAG_SOFTWARE  
+**Canal:** https://t.me/SIAGCOOP
+
+---
