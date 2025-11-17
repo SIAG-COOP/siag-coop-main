@@ -62,6 +62,7 @@ El objetivo es construir soluciones útiles, éticas y sostenibles.
 ---
 
 ## 📬 Contacto
+
 **Email:** siag.software@protonmail.com 
 **Telegram:** https://t.me/SIAG_SOFTWARE  
 **Canal:** https://t.me/SIAGCOOP
